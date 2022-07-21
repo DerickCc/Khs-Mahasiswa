@@ -1,0 +1,10 @@
+01_SD,Struktur Data,4
+08_MD,Matematika Diskrit,3
+05_AA,Algoritma,4
+03_BI,Bahasa Indonesia,2
+04_SS,Soft Skill,2
+02_AD,Agama Dunia,3
+09_CW,Christian Worldview,4
+10_UX,User Experience,4
+06_ST,Statistika,3
+07_WD,Wawasan Dunia,3

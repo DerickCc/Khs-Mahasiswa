@@ -1,0 +1,10 @@
+002,Dannie Lie,2012,S2
+005,Rudy Ahong,2013,S2
+001,Lolo Wijaya,2014,S1
+003,Popo Salim,2011,S3
+009,Marlim Halim,2020,S2
+010,Ivone Throne,2017,S2
+007,Kebo Dahlim,2015,S3
+006,Jason Arista,2011,S3
+008,Baron Ore,2016,S2
+004,Patrik Star,2018,S1

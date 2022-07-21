@@ -1,0 +1,9 @@
+01_term,2021,1,Periode 2021/2022,Semester Ganjil
+07_term,2023,7,Periode 2023/2024,Semester Ganjil
+03_term,2022,3,Periode 2021/2022,Semester Akselerasi
+09_term,2024,9,Periode 2023/2024,Semester Akselerasi
+05_term,2023,5,Periode 2022/2023,Semester Genap
+08_term,2024,8,Periode 2023/2024,Semester Genap
+04_term,2022,4,Periode 2022/2023,Semester Ganjil
+02_term,2022,2,Periode 2021/2022,Semester Genap
+06_term,2023,6,Periode 2022/2023,Semester Akselerasi

@@ -1,0 +1,10 @@
+00001,Marcello Stevin Halim,Sistem Informasi,2016
+00002,Brian Aldin,Sistem Informasi,2017
+00003,Angelo Roti,Hukum,2017
+00006,Mikael Firo,Akuntansi,2018
+00009,Johanes Pakpahan,Teknik Informatika,2020
+00010,Fely Wely,Manajemen,2021
+00004,Setiawan Wan,Akuntansi,2018
+00007,Derry Septiari,Hukum,2019
+00005,Larnio Kroft,Manajemen,2018
+00008,Velidu Wijaya,Teknik Informatika,2019
